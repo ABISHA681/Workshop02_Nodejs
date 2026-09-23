@@ -1,0 +1,12 @@
+{
+  "name": "node-server-workshop",
+  "version": "1.0.0",
+  "description": "Workshop 02 - Building a Node.js HTTP Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
